@@ -36,8 +36,8 @@ Order Status Distribution
 
 Sales Channels
 
-- Amazon is the dominant channel with nearly 100% market share
-- Other channels (Flipkart, Myntra, Others) have minimal presence
+- Amazon is the dominant channel with nearly 35.48% market share
+- Other channels Flipkart(21.59%), Myntra(28.15%),Ajio(6.22%),Meesho(4.50%) Others have minimal presence
 
 Gender Analysis
 
