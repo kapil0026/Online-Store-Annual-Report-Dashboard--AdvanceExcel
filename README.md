@@ -13,36 +13,45 @@ The analysis addresses the following key business questions:
 - Gender Analysis: Determine highest sales percentage according to gender
 - Channel Performance: Analyze order sales according to channel
 
-📈 Key Insights
-Geographic Performance
+🔍 Key Insights From Dashboard
+⭐ 1. Top 5 States by Sales
 
-- Maharashtra leads with 33,911 in sales
-- Karnataka follows with 17,754 in sales
-- Telangana, Tamil Nadu, and Kerala complete the top 5 states
-- Clear regional concentration in southern and western India
+Maharashtra leads with the highest sales.
 
-Customer Demographics
+Followed by Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu.
 
-- Adult category (25-50 years) dominates with 63.21% of sales
-- Senior Citizens account for 20.07% of sales
-- Youth segment represents 16.72% of sales
+👫 2. Sales by Gender
 
-Order Status Distribution
+Women contribute 64% of total sales.
 
-- Delivered orders: 91.84% (82% of total volume)
-- Cancelled orders: 2.97%
-- Other statuses: 1.08%
-- Returned orders: 6.02% (6% of total volume)
+Men contribute 36%.
 
-Sales Channels
+👵🧑👦 3. Sales by Age Group
 
-- Amazon is the dominant channel with nearly 35.48% market share
-- Other channels Flipkart(21.59%), Myntra(28.15%),Ajio(6.22%),Meesho(4.50%) Others have minimal presence
+- Adults are the highest contributing age segment.
+- Youth and Senior Citizens follow behind.
 
-Gender Analysis
+📦 4. Order Status
 
-- Women customers account for 100% of sales in the analyzed period
-- Strong female customer base indicates targeted market segment
+- Delivered: 92%
+- Returned: 3%
+- Refunded: 2%
+- Cancelled: 3%
+
+🛒 5. Channel-wise Sales
+
+Top performing channels:
+
+- Amazon
+- Flipkart
+- Ajio, Myntra, Meesho (mid-tier)
+
+Others (long-tail contribution)
+
+📅 6. Sales vs Orders (Month-wise)
+
+- Peak sales observed in February–March.
+- Gradual decline from June onwards. 
 
 🛠️ Technical Implementation
 Tools Used
